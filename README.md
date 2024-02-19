@@ -1,10 +1,7 @@
-# CalvySource
-Calvyy.xyz Database and Source Code
-Leaked by JohnBowling
+# Calvyy.xyz Database and Source Code
+
+Source code for an old Roblox Private Server project named "Calvy". DB and SC obtained by "John Bowling" on the 23rd and 24th of October, 2021.
 
 Disclaimer: Some files from the source code are missing.
 
-Database obtained on: October 23rd 2021
-Source code obtained on: October 24th 2021
-
-https://discord.gg/ep7H5knxyD
+Discord server (defunct): https://discord.gg/ep7H5knxyD
